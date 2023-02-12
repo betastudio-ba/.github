@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hello, World! :wave:
 
-<!--
+Welcome to betastudio organization on GitHub! We are a Sarajevo-based product development studio with an experienced team of developers, designers, and project managers eager to share their expertise and assist you in developing the ideal digital product for a challenging 21st-century market.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* :books: Learn more about us. [Read our story](https://www.betastudio.ba/)
+* :computer: We have a sweet mix of enterprise and startup projects in our prtfolio. [Check them out](https://www.betastudio.ba/projects)
+* :office: Grown in a coworking space, founded by the community. [Learn about tershouse](https://www.tershouse.ba)
+* :octocat: We're hiring! [Check open positions](https://www.betastudio.ba/careers)
